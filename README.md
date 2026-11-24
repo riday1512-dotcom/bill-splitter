@@ -9,14 +9,19 @@ This project demonstrates core Java fundamentals in a practical, real-world scen
 - **Java Beginners:** Learners practicing object-oriented structure, method invocation, and `Scanner` input handling.
 - **Students & Educators:** Anyone looking for a straightforward reference implementation of conditional logic (`if/else`) and division-by-zero prevention in Java.
 
+## Tools & Technologies
+- **Programming Language:** Java (JDK 8 or higher)
+- **Standard Libraries:** `java.util.Scanner` (for reading terminal input)
+- **Compiler & Runtime:** `javac` and `java` CLI tools
+- **Supported IDEs / Editors:** Visual Studio Code, IntelliJ IDEA, Eclipse, or any plain text editor
+- **Terminal / Shell:** Windows PowerShell, Command Prompt, macOS Terminal, or Linux Bash
+- **Version Control:** Git & GitHub
+
 ## Key Learning Outcomes
 - **User Input Handling:** Reading `double` and `int` values from standard input using `java.util.Scanner`.
 - **Object-Oriented Basics:** Defining classes, instance methods (`billsplit()`), and instantiating objects inside `main()`.
 - **Input Validation:** Safeguarding calculations against invalid entries (such as zero or negative headcounts and negative amounts).
 - **Resource Management:** Properly closing `Scanner` streams to prevent resource leaks.
-
-## Prerequisites
-- **Java Development Kit (JDK):** Version 8 or higher installed and configured in your system `PATH`.
 
 ## Usage
 
